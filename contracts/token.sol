@@ -5,6 +5,7 @@ pragma solidity >=0.5.0 < 0.9.0;
 
  contract token 
  {
+     //contract token
         string public name = "hardHat";
         string public symbol = "HHT";
         uint totalSupply = 10000;
